@@ -1,4 +1,4 @@
-# FitConnect
+# FitConnect - test commit
 
 ## ReactJS Application with Django
 This is an application that combines a frontend developed in ReactJS and a backend developed in Django, both running in Docker containers.
