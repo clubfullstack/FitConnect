@@ -1,0 +1,4 @@
+Django
+django-rest-framework
+django-cors-headers
+pyflakes==3.0.1
